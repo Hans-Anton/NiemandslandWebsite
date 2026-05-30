@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Das Festival on Classic</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Das Festival on Classic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 18:33:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anreisen</title>
+      <link>http://localhost:1313/anreisen/</link>
+      <pubDate>Fri, 29 May 2026 18:33:00 +0200</pubDate>
+      <guid>http://localhost:1313/anreisen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packen</title>
+      <link>http://localhost:1313/packen/</link>
+      <pubDate>Fri, 29 May 2026 18:32:55 +0200</pubDate>
+      <guid>http://localhost:1313/packen/</guid>
+      <description>&lt;p&gt;L I E B E&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verpflegung</title>
+      <link>http://localhost:1313/verpflegung/</link>
+      <pubDate>Fri, 29 May 2026 18:32:41 +0200</pubDate>
+      <guid>http://localhost:1313/verpflegung/</guid>
+      <description>&lt;p&gt;Es gibt Getränke und Essen Nachmittags und Abends zu kaufen. Insbesondere beim Essen bitten wir Euch aber, für die eigene Verpflegung etwas mitzubringen! Leitungswasser ist selbstverständlich kostenlos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wichtig</title>
+      <link>http://localhost:1313/wichtig/</link>
+      <pubDate>Fri, 29 May 2026 18:32:31 +0200</pubDate>
+      <guid>http://localhost:1313/wichtig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musik</title>
+      <link>http://localhost:1313/musik/</link>
+      <pubDate>Fri, 29 May 2026 18:32:15 +0200</pubDate>
+      <guid>http://localhost:1313/musik/</guid>
+      <description>&lt;h1 id=&#34;lauta&#34;&gt;LauTA&lt;/h1&gt;&#xA;&lt;p&gt;Die Band LauTA, kurz für &lt;em&gt;Laurenz, Techno, Anton&lt;/em&gt; fusioniert faszinierende Techno-Beats mit dem Aufschrei, der Anbetung, der Alchemie des Saxofons. Mehr verraten wir an der Stelle nicht.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
